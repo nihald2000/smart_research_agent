@@ -1,0 +1,8 @@
+langgraph>=0.0.30 # Or latest version
+google-generativeai>=0.4.0
+python-dotenv>=1.0.0
+requests
+Pillow
+# LangChain is often a peer dependency or useful alongside LangGraph
+# Add specific langchain components if needed, but LangGraph itself is key
+langchain-core 
